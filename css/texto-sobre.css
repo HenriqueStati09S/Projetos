@@ -1,0 +1,25 @@
+ .p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body {
+    background-color: rgb(18, 11, 121);
+    font-family: "Calibri", Times, serif;
+}
+
+html {
+    color: -internal-root-color;
+}
+#texto-sobre {
+    width: 400px;
+    height: 350px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+div {
+    display: block;
+}

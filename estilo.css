@@ -1,0 +1,19 @@
+.img{
+    margin-right: 15px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+.fonte{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.img:hover{
+    -webkit-filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
+    filter: drop-shadow(15px 10px 5px rgba (0,0,0,5));
+    -webkit-transform: scale(1.01);
+    transform: scale(1.01);
+}
+.mrg{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
